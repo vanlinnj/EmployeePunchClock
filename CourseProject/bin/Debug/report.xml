@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PunchesReport>
+   <Punch>
+      <PunchID>7</PunchID>
+      <EmployeeID>2</EmployeeID>
+      <PunchType>False</PunchType>
+      <DateTime>12/5/2016 9:25:46 AM</DateTime>
+   </Punch>
+   <Punch>
+      <PunchID>6</PunchID>
+      <EmployeeID>2</EmployeeID>
+      <PunchType>True</PunchType>
+      <DateTime>12/1/2015 4:42:00 AM</DateTime>
+   </Punch>
+</PunchesReport>
